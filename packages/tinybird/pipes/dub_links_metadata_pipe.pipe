@@ -30,3 +30,4 @@ SQL >
 TYPE materialized
 DATASOURCE dub_links_metadata_latest
 
+
